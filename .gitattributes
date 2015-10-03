@@ -1,0 +1,3 @@
+/plugins/maven-plugin/maven-opts_zh_CN.html -crlf -diff
+*.MF -crlf -diff
+*.xls -crlf -diff

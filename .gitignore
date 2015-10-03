@@ -1,0 +1,13 @@
+/.bash*
+/Download\ metadata.log
+/identity.key.enc
+/.java/
+/jobs/PHP\ project/builds
+/jobs/PHP\ project/nextBuildNumber
+/.lesshst
+/plugins
+/secret.key
+/secrets
+/.ssh
+/updates/
+/Workspace\ clean-up.log
